@@ -21,6 +21,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chengfushianuraghazra)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chengfushianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
