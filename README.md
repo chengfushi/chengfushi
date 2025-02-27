@@ -21,5 +21,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/shichengfu=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chengfushi=anuraghazra)
+
 
